@@ -42,3 +42,4 @@ jobs:
 
       - name: Format code
         run: npm run format:check
+
